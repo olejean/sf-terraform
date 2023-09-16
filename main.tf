@@ -13,8 +13,8 @@ terraform {
     bucket                      = "sf-terraforn-storage-file" # имя хранилища
     key                         = "issue1/terraform.tfstate"  # путь до state-файла в хранилище
     region                      = "ru-central1"               # регион размещения хранилища
-    access_key                  = "YCAJEgLiwAo5VQa3yHm8wOyrR"
-    secret_key                  = "YCNN7wzEO-pGKBu9Xv2u4xZp54C_2rMtzxiBzb57"
+    access_key                  = "!!!!!!!!!!"
+    secret_key                  = "!!!!!!!!!!"
     skip_region_validation      = true
     skip_credentials_validation = true
   }
